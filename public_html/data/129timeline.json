@@ -1,0 +1,251 @@
+{
+    "treatmentTimeline": {
+        "x": {
+            "items": [{
+                    "id": " 1",
+                    "content": "CT ABDOMEN COMPLET",
+                    "start": "2012-11-02",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 2",
+                    "content": "RECTOSIGMOIDOSCOPIE",
+                    "start": "2012-11-05",
+                    "group": "Chirurgie",
+                    "style": "background-color: #abebc6;",
+                    "type": "box"
+                }, {
+                    "id": " 3",
+                    "content": "CT THORAX",
+                    "start": "2012-11-07",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 4",
+                    "content": "HEMICOLECTOMIE (GAUCHE)",
+                    "start": "2012-11-09",
+                    "group": "Chirurgie",
+                    "style": "background-color: #abebc6;",
+                    "type": "box"
+                }, {
+                    "id": " 5",
+                    "content": "THORAX",
+                    "start": "2012-11-09",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 6",
+                    "content": "THORAX",
+                    "start": "2012-11-11",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 7",
+                    "content": "ABDOMEN",
+                    "start": "2012-11-12",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 8",
+                    "content": "THORAX",
+                    "start": "2012-12-19",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": " 9",
+                    "content": "FOLFOX",
+                    "start": "2012-12-28",
+                    "end": "2013-03-08",
+                    "group": "Traitement",
+                    "style": "background-color: #f1948a;",
+                    "type": "range"
+                }, {
+                    "id": "10",
+                    "content": "CT THORACO-ABDOMINAL",
+                    "start": "2013-07-05",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "11",
+                    "content": "CT THORACO-ABDOMINAL",
+                    "start": "2014-01-16",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "12",
+                    "content": "THORAX",
+                    "start": "2014-06-24",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "13",
+                    "content": "US TESTICULES",
+                    "start": "2014-08-08",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "14",
+                    "content": "CURE HYDROCELE BILATERAL",
+                    "start": "2014-09-18",
+                    "group": "Chirurgie",
+                    "style": "background-color: #abebc6;",
+                    "type": "box"
+                }, {
+                    "id": "15",
+                    "content": "THORAX",
+                    "start": "2014-12-31",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "16",
+                    "content": "CT THORACO-ABDOMINAL",
+                    "start": "2015-01-05",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "17",
+                    "content": "IRM ABDOMEN SUPERIEUR",
+                    "start": "2015-07-17",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "18",
+                    "content": "GENOU",
+                    "start": "2016-06-05",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "19",
+                    "content": "THORAX",
+                    "start": "2016-06-06",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "20",
+                    "content": "IRM GENOU",
+                    "start": "2016-06-07",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "21",
+                    "content": "MI EN CHARGE",
+                    "start": "2016-06-07",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "22",
+                    "content": "IRM ABDOMEN SUPERIEUR",
+                    "start": "2016-06-28",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "23",
+                    "content": "GENOU",
+                    "start": "2016-07-05",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "24",
+                    "content": "CT THORACO-ABDOMINAL",
+                    "start": "2016-07-29",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "25",
+                    "content": "GENOU",
+                    "start": "2016-08-16",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "26",
+                    "content": "THORAX",
+                    "start": "2017-02-17",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "27",
+                    "content": "IRM COEUR",
+                    "start": "2017-02-20",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "28",
+                    "content": "SCINTI RENALE DYNAMIQUE",
+                    "start": "2017-02-22",
+                    "group": "Méd. nucléaire",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "29",
+                    "content": "US ABDOMEN COMPLET",
+                    "start": "2017-02-23",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "30",
+                    "content": "THORAX",
+                    "start": "2017-02-25",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "31",
+                    "content": "SCINTI RENALE DYNAMIQUE",
+                    "start": "2017-02-28",
+                    "group": "Méd. nucléaire",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "32",
+                    "content": "CT THORACO-ABDOMINAL",
+                    "start": "2017-11-06",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }, {
+                    "id": "33",
+                    "content": "IRM ABDOMEN INFERIEUR",
+                    "start": "2018-01-08",
+                    "group": "Imagerie",
+                    "style": "background-color: #b3ffed;",
+                    "type": "box"
+                }],
+            "groups": [{
+                    "id": "Imagerie",
+                    "content": "Imagerie"
+                }, {
+                    "id": "Chirurgie",
+                    "content": "Chirurgie"
+                }, {
+                    "id": "Traitement",
+                    "content": "Traitement"
+                }, {
+                    "id": "Méd. nucléaire",
+                    "content": "Méd. nucléaire"
+                }] 
+        } 
+}
